@@ -2,7 +2,6 @@
 
 > An ESP32-S3 Wi-Fi repeater with a built-in web config panel, NAT internet sharing, and DNS fix — no router access needed.
 
-Built by **Anas Kheireddine** ([@Kheireddine-Anas](https://github.com/Kheireddine-Anas)) — 1337 School, first-ranked graduate of the common core cohort.
 
 ---
 
