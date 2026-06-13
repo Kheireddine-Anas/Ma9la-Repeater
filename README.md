@@ -73,7 +73,7 @@ Turn any ESP32-S3 into a proper Wi-Fi repeater:
 ## First-Time Setup
 
 1. Flash the firmware
-2. Connect to hotspot **`Ma9la-NET`** (password: `1337ma9la`)
+2. Connect to hotspot **`Ma9la-NET`** (password: `Ma9la1337`)
 3. Open **`http://192.168.4.1`** in your browser
 4. Enter your router's Wi-Fi name and password → **Save & Share Internet**
 5. ESP32 reboots, connects, and starts sharing internet
